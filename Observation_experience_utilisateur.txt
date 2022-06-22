@@ -1,0 +1,40 @@
+-----------------------#OBSERVATION EXPERIENCE UTILISATEUR---------------------------
+	Liste des questions que je pose quand j'utilise la plateforme SAYNA:
+0- Pourquoi ils ont choisi le theme galaxie(ou la conquete de l'espace[ou du genre]), pourquoi pas la nature? la jeunesse? la technologie...etc?
+1- Pourquoi ils ont choisi la couleur bleu foncée comme theme? 
+2- Pourquoi ils ont choisi aussi d'utiliser des avatars au lieu d'un autre ?
+3- Pourquoi le mot "SAYNA" (qui exprime le cerveau,l'intelligence de langue Malgache) n'est pas exploité comme illustration du theme ou au moins sur le logo?
+4- la Typographie  ???
+
+	Reponse:
+0- A la conquete des talents specials on dirait.
+1- pour illustré la couleure de galaxie.
+2- pour etre dans la bonne vaisseau spaciale,peut etre XD.
+3- ???... meme moi je me demande cette question
+4- qui s'adapte avec le theme galaxie.
+
+-----------------------#CHOIX D'APPLICATION-------------------------------------------
+application web: site https://bruno-simon.com/
+			Bruno Simon - Creative developer
+			j'apprecie trop ce site parce qu'il est ludique, creatif et attirant surtout au jeune ..je kiff 
+			mais il restreint certain categorie de personne: les handicapés.
+
+donc je chois celui-ci: kasia.mg
+l'illustration dans la page d'acceuil est genial: (en plus je vous demande où est ce qu'on peut avoir les illustrations de ce genre)
+couleur de base ne pique pas l'oeil, au contraire, attire la vue.
+simple
+en plus, #j_aime_trop_l_illustration_flat_design
+
+
+-----------------------#COMMENT LE DISTRIBUTEUR DE BILLET FONCTIONNE-T-IL ?-----------
+ma reponse: 
+on stocke des billets dedans, et on categorise les billets
+une fois un client a introduit sa carte, et commence a taper le montant qu'il veut, le systeme verifie si la somme tapé existe dans son compte
+si oui, le systeme comprendre le montant tapé et fait l'operation(algorithme) pour avoir le nombre de billet exact à la somme... puis il les faire sorties.
+
+reponse des autres:
+quand on clique, les billets se sortient.
+
+-----------------------#COMPRENDRE LES BESOINS DES UTILISATEURS------------------------
+1-Elodie est jeune, qui aime faire la partage avec ses amies, qui a toujours des idées, instructive, addict a la technologie.Qui ecoute le moins, dominante.
+2- une fonctionnalites un peu pas trop serieuse(pas trop sobre) de couleur de base couleur secondaire avecdes illustration en flat design bien suuuurrr.....XD
